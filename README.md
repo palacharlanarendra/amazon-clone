@@ -146,9 +146,9 @@ Contributions are what make the open source community such an amazing place to l
 
 Your Name - [@your_twitter](https://twitter.com/narendrapalach1) - narendrapalacharla@gmail.com
 
-Project Link: [https://github.com/your_username/repo_name](https://clone-20772.web.app/)
+Project Link: [https://github.com/palacharlanarendra/amazon-clone](https://github.com/palacharlanarendra/amazon-clone)
 
-
+Live Link: [https://clone-20772.web.app/](https://clone-20772.web.app/)
 
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
