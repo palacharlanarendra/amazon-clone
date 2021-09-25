@@ -6,7 +6,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg" alt="Logo" width="150" height="40">
   </a>
 
-  <h3 align="center">Amazon clone</h3>
+  <h3 align="center">CLONE</h3>
 
   <p align="center">
     An website with similar functionality like amazon
