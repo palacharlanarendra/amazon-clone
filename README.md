@@ -1,17 +1,9 @@
 
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
-
-
-
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="/images/amazon_logo_dark.png" alt="Logo" width="150" height="40">
+  <a href="https://github.com/palacharlanarendra/amazon-clone">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg" alt="Logo" width="150" height="40">
   </a>
 
   <h3 align="center">Amazon clone</h3>
