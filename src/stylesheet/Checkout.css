@@ -1,0 +1,33 @@
+.checkout__BannerAdd {
+  width: 100%;
+  margin-bottom: 1rem;
+}
+.checkout__title {
+  margin-right: 1rem;
+  padding: 1rem;
+  border-bottom: 1px solid lightgrey;
+}
+.checkout {
+  display: flex;
+  padding: 2rem;
+  background-color: white;
+  height: max-content;
+}
+.shoppingBasket__interface {
+  width: 70%;
+}
+
+@media screen and (max-width : 768px) {
+  html{
+    font-size: 12px;
+  }
+  .container{
+    width: 90%;
+  }
+  .column{
+    flex-direction: column;
+  }
+  .checkout__BannerAdd{
+    width: 50rem;
+  }
+}

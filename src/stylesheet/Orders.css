@@ -1,0 +1,50 @@
+.order {
+  padding: 40px;
+  margin: 20px 0;
+  border: 1px solid lightgray;
+  background-color: white;
+  position: relative;
+}
+
+.order__id {
+  position: absolute;
+  top: 40px;
+  right: 20px;
+}
+h1{
+  font-size: 2rem;
+  font-weight: bold;
+  text-align: center;
+  margin-top: 1rem;
+}
+
+.order__total {
+  font-weight: 500;
+  text-align: right;
+}
+
+@media screen and (max-width : 765px) {
+  html{
+    font-size: 12px;
+  }
+  .container{
+    width: 90%;
+  }
+  .order{
+    width: 100%;
+    margin: auto !important;
+  }
+}
+
+@media screen and (max-width : 448px) {
+  html{
+    font-size: 12px;
+  }
+  .container{
+    width: 800%;
+  }
+  .order{
+    width: 80%;
+    margin:1rem auto !important;
+  }
+}
