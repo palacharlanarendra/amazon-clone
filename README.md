@@ -63,7 +63,7 @@ Here's are the features:
 * Integration of paypal payment method.
 * Storing the ordered history of the user.
 
-Of course, we cant clne the whole website in the couple of days, which they were burning their oil from past decade.
+Of course, we cant clone the whole website in the couple of days, which they were burning their oil from past decade.
 
 A list of commonly used resources that I find helpful are listed in the acknowledgements.
 
